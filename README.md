@@ -38,6 +38,12 @@ The project was built with **HTML5, CSS3, and Vanilla JavaScript**, featuring a 
 
 ---
 
+## 🌐 Live Demo  
+
+👉 [Access the site here]([https://akdomingues.github.io/pokomio/](https://akdomingues.github.io/POK-DEX-V1/))  
+
+---
+
 ## 🚀 How to Use  
 
 1. Download or clone this repository:  
