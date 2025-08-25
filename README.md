@@ -42,7 +42,7 @@ The project was built with **HTML5, CSS3, and Vanilla JavaScript**, featuring a 
 
 1. Download or clone this repository:  
    ```bash
-   git clone https://github.com/akdomingues/pokomio.git```
+   git clone https://github.com/akdomingues/pokomio.git
 
 ---
 
