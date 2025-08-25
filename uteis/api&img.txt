@@ -1,2 +1,0 @@
-API  ( https://pokeapi.co/api/v2/pokemon/ )
-IMAGENS ( https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png )
